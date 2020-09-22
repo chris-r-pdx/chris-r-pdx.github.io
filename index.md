@@ -8,7 +8,7 @@ A reference for my professional activities and projects of interest.
 
 ### Talks and Publications
 - [INSIGHTS: Blockchain Disputes, Investigations on Rise During Pandemic](https://news.bloomberglaw.com/tech-and-telecom-law/insights-blockchain-disputes-investigations-on-rise-during-pandemic) by Chris Riper and Zach Brumbelow, Bloomberg Law, June 12, 2020.
--
+- [Understanding the Forensic Technology Landscape: A Reference Guide for Practitioners](https://www.aicpa.org/content/dam/aicpa/interestareas/forensicandvaluation/resources/downloadabledocuments/forensic-technology-reference-guide.pdf) chapter on Database Analytics by Chris Riper, Scott Sizemore and Ken Feinstein, AICPA FLS Forensic Technology Task Force, June 9, 2020.
 - [Mitigating The Impact Of A Data Investigation](https://www.law360.com/articles/1222638/mitigating-the-impact-of-a-data-investigation) by Chris Riper, Michael Busen and Scott Sizemore, Law360, November 27, 2019. [Reprint available here.](https://www.fticonsulting.com/insights/articles/mitigating-impact-data-investigation)
 -
 -
