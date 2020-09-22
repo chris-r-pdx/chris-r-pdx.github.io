@@ -9,4 +9,4 @@ CV<br><br>
 ### Other
 I enjoy spending time with my family, taking trips to the coast, and training and racing in triathlons.
 
-[![View my Strava profile](strava_icon_96.png "View my Strava profile")](https://www.strava.com/athletes/17256751)
+[![View my Strava profile](icon-strava-48.png "View my Strava profile")](https://www.strava.com/athletes/17256751)
