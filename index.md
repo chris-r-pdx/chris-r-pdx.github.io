@@ -1,4 +1,4 @@
-## Welcome to Chris' Page
+## Welcome to Chris Riper's Page
 A reference for my professional activities and projects of interest.
 
 ### Connect with me
