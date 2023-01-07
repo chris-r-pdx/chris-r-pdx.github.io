@@ -1,5 +1,5 @@
 ## Welcome to Chris Riper's Page
-A reference for my professional activities and projects of interest.
+A reference for my professional activities and projects of interest. See my resume [here](https://github.com/chris-r-pdx/chris-r-pdx.github.io/blob/5ebab2fc4a9a82418863674d779c11c73693f1df/Christopher%20Riper%20resume%20-%20November%202022.pdf).
 
 ### Connect with me
 [![Email](assets/img/icon-email-48.png "Email")](mailto:christopher.riper@gmail.com) [![LinkedIn](assets/img/icon-linkedin-48.png "LinkedIn")](https://www.linkedin.com/in/christopherriper/) [![Github](assets/img/icon-github-48.png "Github")](https://github.com/chris-r-pdx) [![View my Strava profile](assets/img/icon-strava-48.png "View my Strava profile")](https://www.strava.com/athletes/17256751)
