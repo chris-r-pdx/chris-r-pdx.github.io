@@ -9,6 +9,11 @@ A reference for my professional activities and projects of interest. See my resu
 - Axiom EPM (2011)
 - LECG (2006 - 2011)
 
+### Certifications
+- Certified Anti-Money Laundering Specialist (**CAMS**) - 2021 - present
+- Cryptocurrency Tracing Certified Examiner (**CTCE**) - 2021 - present
+- Certified Fraud Examiner (**CFE**) - 2008 - present
+
 ### Projects
 A selection of key projects from my career. 
 - [Wells Fargo Sales Practices Investigation](https://ftiinsights.com/wp-content/uploads/2020/07/VN00670-v02-Wells-Fargo.pdf) Project manager of the FTI team who assisted Wells Fargo’s Board of Directors’ investigation of the fake account scandal. Examined voluminous account, transaction and financial data, and participated in interviews of bank personnel. Prepared comprehensive analytics to identify trends over time and the geographic distribution of allegations of sales-integrity violations.
